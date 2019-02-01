@@ -1,0 +1,27 @@
+{
+  "name": "music-bot-master",
+  "version": "1.0.0",
+  "description": "> Simple music bot with a full-blown queue system that is easy to understand",
+  "main": "MusicBot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "forever-monitor": "^1.7.1",
+    "node-opus": "^0.3.1",
+    "simple-youtube-api": "^3.0.1",
+    "ytdl-core": "^0.29.1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordbot"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "iCrawl",
+  "license": "MIT"
+}
